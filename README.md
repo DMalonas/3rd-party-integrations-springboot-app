@@ -1,4 +1,4 @@
-# mintos-
+# mintos
 Java developer home assignment
 Your task is to develop a simple RESTful web service that would satisfy a set of functional requirements, as
 well as a list of non-functional requirements. Please note, those non-functional requirements are given in
